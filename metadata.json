@@ -1,0 +1,7 @@
+{
+  "name": "github",
+  "description": "Hidrolik birim amirleri ve ustaları için mobil öncelikli görev takip ve yönetim uygulaması.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

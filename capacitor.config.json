@@ -1,0 +1,9 @@
+{
+  "appId": "com.hidrotakip.app",
+  "appName": "HidroTakip",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
